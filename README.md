@@ -9,7 +9,7 @@
 ------------------------GetDetails_huodong.java 获取活动信息 <br/>
 ------------------------GetDetails_yewu.java 获取业务信息 <br/>
 ------------------------GetDetails_GetDetails_zifei.java 获取资费信息 <br/>
-------------------------GetDetails_IdQueue.java 生成用户信息xml <br/>
+------------------------GetDetails_IdQueue.java 用队列对url去重 <br/>
 
 需要的jar包：<br/>
 commons-beanutils-1.7.0.jar  <br/>
